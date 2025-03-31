@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <div className='flex flex-row h-full'>
       <div className='bg-gray-600 w-1/4 p-4 text-white'>
-        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ea tempora nihil quo inventore quod molestias culpa, minus, nobis nulla sunt ullam est totam placeat provident aut consectetur nisi maiores.</h1>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores rem, ipsam officia debitis doloremque dolor laboriosam totam corrupti accusantium minima laudantium quos, similique repellat nemo error placeat ad repellendus explicabo!</h1>
       </div>
       <div className='bg-gray-400 w-full'>
 

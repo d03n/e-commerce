@@ -5,10 +5,12 @@ import { Outlet } from "react-router-dom"
 function App() {
 
   return (
-    <div className="h-screen">
-      <Header></Header>
-        <Outlet></Outlet>
-      <Footer></Footer>
+    <div className="flex flex-col h-screen">
+      <Header/>
+        <div className=''>
+          <Outlet/>
+        </div>
+      <Footer/>
     </div>
   )
 }

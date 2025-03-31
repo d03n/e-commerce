@@ -5,8 +5,8 @@ import Banner from '../components/Banner'
 
 const Home = () => {
   return (
-    <div className=''>
-      Home
+    <div className='flex flex-col h-screen'>
+      <Banner/>
     </div>
   )
 }
